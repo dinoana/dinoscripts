@@ -24,7 +24,13 @@ Each scripts have a short description below in this README, refer it to know how
 - Make sure there's no new red underlines or ❌ popped up.
 - Save changes and reload splix.
 
-##### PROTIP: Show the whole code to chatgpt and ask it for help
+##### PROTIP: Show the code to chatgpt and ask it for help
 
 ### NOTE:
-New scripts are added once in every month.
+New scripts are added at least once in every month.
+
+## Scripts
+
+### 1. Dinoscope
+
+Never let go a player unnoticed! draws a dark circle around players, change the color of their names to white, the names grows larger if zoomed out too.. and it make the honks looks cute cutee..
