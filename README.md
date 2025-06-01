@@ -6,7 +6,7 @@ An archive of the dinoscripts, welcome to the secrets of [splixland](https://spl
 
 - Install [tampermonkey](https://www.tampermonkey.net/) extension for your browser if you don't have it already.
 - Open a script (file ending with .user.js) from this repository.
-- Press download button on top right, tampermonkey would ask if you want install it, and press yes
+- Press `Raw` button on top right, tampermonkey would ask if you want install it, and press yes
 - In case tampermonkey didn't ask:
   - then copy the content of the script.
   - Click on *create a new script* option from the extension's menu.
