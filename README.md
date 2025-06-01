@@ -5,9 +5,12 @@ An archive of the dinoscripts, welcome to the secrets of [splixland](https://spl
 ## How to install?
 
 - Install [tampermonkey](https://www.tampermonkey.net/) extension for your browser if you don't have it already.
-- Copy the content of any of the scripts (files end with .dino.js) from this repository.
-- Click on *create a new script* option from the extension's menu.
-- Replace the content of the newly opened editor with the copied script.
+- Open a script (file ending with .user.js) from this repository.
+- Press download button on top right, tampermonkey would ask if you want install it, and press yes
+- In case tampermonkey didn't ask:
+  - then copy the content of the script.
+  - Click on *create a new script* option from the extension's menu.
+  - Replace the content of the newly opened editor with the copied script.
 - Reload splix once.. umm.. maybe twice if it didn't work..
 - Yayyy...
 
